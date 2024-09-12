@@ -3,6 +3,5 @@ speechrecognition
 pyttsx3
 python-dotenv
 google-generativeai
-pyaudio
 setuptools
 gtts
